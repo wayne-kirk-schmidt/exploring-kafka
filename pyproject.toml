@@ -1,0 +1,14 @@
+[project]
+name = "exploring-kafka"
+version = "0.1.0"
+description = "Progressive Kafka operational learning environment"
+requires-python = ">=3.11"
+
+dependencies = [
+    "confluent-kafka",
+    "aiokafka",
+    "pysnmp",
+    "prometheus-client",
+    "fastapi",
+    "uvicorn"
+]

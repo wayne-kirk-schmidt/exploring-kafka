@@ -1,0 +1,6 @@
+confluent-kafka
+aiokafka
+pysnmp
+prometheus-client
+fastapi
+uvicorn
